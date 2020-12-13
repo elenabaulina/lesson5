@@ -11,7 +11,6 @@ f = open('stih.txt')
 line = 0
 for i in f:
     line += 1
-
     flag = 0
     word = 0
     for j in i:
